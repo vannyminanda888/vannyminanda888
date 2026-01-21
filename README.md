@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vanny Minanda Banner"/>
+  <img src="banner.png" alt="Vanny Minanda Banner"/>
 </p>
 
 ## Hi 👋, I’m Vanny Minanda  
