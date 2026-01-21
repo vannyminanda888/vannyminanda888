@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Vanny Minanda Banner"/>
-</p>
-
 ## Hi 👋, I’m Vanny Minanda  
 
 **Microsoft Azure • Data Scientist • AI**
