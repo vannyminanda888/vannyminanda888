@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="banner.png" alt="Vanny Minanda Banner"/>
+  <img src="banner1.png" alt="Vanny Minanda Banner"/>
 </p>
 
 ## Hi 👋, I’m Vanny Minanda  
 
 **Microsoft Azure • Data Scientist • AI**
 
-A researcher and tech enthusiast with a strong background in **algorithm optimization, data analysis, and AI-driven systems**.  
-I enjoy building practical solutions where **theory meets real-world impact**, solving real-world problem.
+**Data Scientist** with a PhD focused on algorithm optimization, specializing in **Machine Learning, Deep Learning, and Al systems including LLMs, RAG, and Agentic Al.**
+Passionate about **programming and building efficient, scalable solutions.**
 
 ---
 
